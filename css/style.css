@@ -1855,7 +1855,7 @@
  }
 
  .main-head .arrow {
-     bottom: 40px;
+     bottom: -120px;
      width: 40px;
      height: 40px;
      font-size: 40px;
@@ -1891,10 +1891,12 @@
  }
 
  .main-head {
+    background-image: url('../img/background.png');
      padding: 100px 0;
      /*height: 100vh;*/
      min-height: 100vh;
-     position: relative
+     /* position: relative */
+     z-index: -100;
  }
 
  .intro-text h1 {
@@ -8392,6 +8394,10 @@
      section#bred-sec {
          margin-bottom: 40px !important
      }
+     .navbar-brand>img {
+        width: 160px;
+        margin-top: 11px
+    }
  }
 
  @media only screen and (min-width:992px) and (max-width:1199px) {
@@ -8433,6 +8439,10 @@
      ul.my-nav-new {
          margin-left: 30px
      }
+     .navbar-brand>img {
+        width: 160px;
+        margin-top: 11px
+    }
  }
 
  @media only screen and (min-width:768px) and (max-width:991px) {
