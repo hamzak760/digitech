@@ -374,7 +374,7 @@
  .navbar-custom .nav li a,
  .navbar-custom .navbar-toggle {
      font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
-     color: #fff;
+     color: #000;
      text-transform: uppercase
  }
 
@@ -1797,7 +1797,7 @@
  }
 
  .my-nav-new li a {
-     color: #fff !important;
+     color: #000 !important;
      padding: 15px 0 0 !important
  }
 
@@ -1891,7 +1891,7 @@
  }
 
  .main-head {
-    background-image: url('../img/background.png');
+    /* background-image: url('../img/background.png'); */
      padding: 100px 0;
      /*height: 100vh;*/
      min-height: 100vh;
