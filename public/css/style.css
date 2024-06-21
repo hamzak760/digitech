@@ -9586,6 +9586,7 @@
 
  @media screen and (max-width: 767px) {
      amp-sidebar#sidebar-left {
+        width: 250px;
          overflow: scroll !important;
      }
      .custom-homePageSideMenu li a {
