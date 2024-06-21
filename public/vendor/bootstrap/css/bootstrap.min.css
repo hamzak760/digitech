@@ -4800,12 +4800,12 @@ textarea.input-group-sm>.input-group-btn>.btn {
     display: block;
     padding: 10px 15px
 }
-
+/* 
 .nav>li>a:focus,
 .nav>li>a:hover {
     text-decoration: none;
     background-color: #eee
-}
+} */
 
 .nav>li.disabled>a {
     color: #777
@@ -4822,7 +4822,7 @@ textarea.input-group-sm>.input-group-btn>.btn {
 .nav .open>a,
 .nav .open>a:focus,
 .nav .open>a:hover {
-    background-color: #eee;
+    /* background-color: #eee; */
     border-color: #337ab7
 }
 
@@ -5688,7 +5688,7 @@ fieldset[disabled] .navbar-inverse .btn-link:hover {
 .pagination>li>span:hover {
     z-index: 2;
     color: #23527c;
-    background-color: #eee;
+    /* background-color: #eee; */
     border-color: #ddd
 }
 
