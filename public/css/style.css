@@ -9922,3 +9922,6 @@
       opacity: 1;
     }
   }
+  .get-quote a{
+    color: white;
+  }
