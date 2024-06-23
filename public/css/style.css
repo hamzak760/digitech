@@ -446,9 +446,9 @@
 
  .swiper-slide {
      color: #808080;
-     font-size: 20px;
+     font-size: 26px;
      font-family: montserratmedium;
-     font-weight: 400
+     font-weight: 600
  }
 
  .header {
@@ -2669,7 +2669,7 @@
  }
 
  .second-sec-bg {
-     background: url(../img/map.png) no-repeat 5%;
+     background: url(../img/map2.png) no-repeat 5%;
      background-color: #fff;
      background-size: 39%;
      position: relative
@@ -4273,9 +4273,9 @@
  }
 
  .intro-text p {
-     font-size: 14px;
+     font-size: 18px;
      font-family: montserratregular;
-     font-weight: 600;
+     font-weight: 500;
      color: #fff;
      width: 80%;
      margin: 0 auto
@@ -8535,42 +8535,42 @@
 
  .icon-box-s2.s2:before {
      content: "";
-     background-image: url(../img/about/ser1.jpg);
+     background-image: url(../img/1.png);
      background-repeat: no-repeat;
      background-size: cover
  }
 
  .icon-box-s2.s3:before {
      content: "";
-     background-image: url(../img/about/ser2.jpg);
+     background-image: url(../img/2.png);
      background-repeat: no-repeat;
      background-size: cover
  }
 
  .icon-box-s2.s4:before {
      content: "";
-     background-image: url(../img/software-development.jpg);
+     background-image: url(../img/3.png);
      background-repeat: no-repeat;
      background-size: cover
  }
 
  .icon-box-s2.s5:before {
      content: "";
-     background-image: url(../img/about/ser4.jpg);
+     background-image: url(../img/4.png);
      background-repeat: no-repeat;
      background-size: cover
  }
 
  .icon-box-s2.s6:before {
      content: "";
-     background-image: url(../img/about/ser5.jpg);
+     background-image: url(../img/5.png);
      background-repeat: no-repeat;
      background-size: cover
  }
 
  .icon-box-s2.s7:before {
      content: "";
-     background-image: url(../img/about/ser6.jpg);
+     background-image: url(../img/6.png);
      background-repeat: no-repeat;
      background-size: cover
  }
@@ -9924,4 +9924,7 @@
   }
   .get-quote a{
     color: white;
+  }
+  .pointer{
+    cursor: pointer;
   }
